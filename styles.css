@@ -97,6 +97,10 @@ img {
     padding: 2rem;
 }
 
+#timeline {
+  width: 100%;
+}
+
 
 * {
     scrollbar-width: thin;
